@@ -1,0 +1,58 @@
+.n_card{
+    border-style: solid;
+    box-shadow: 0 0 70px rgb(211, 137, 137);
+    border-radius: 10px;
+    font-size: large;
+    margin: 15px;
+    padding: 15px;
+    max-width: 300px;
+    min-width: 100px;
+    max-height: 400px;
+    min-height: 450px;
+}
+main{
+    margin-left: 15pt;
+    margin-right: 15pt;
+}
+.n_cont{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    flex-wrap: wrap;
+}
+.photo{
+    background: url(https://avatars.mds.yandex.net/i?id=7ec9f60e3a0a64533266cff131eba6250400bc28-10993330-images-thumbs&n=13) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo1{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo2{
+    background: url(https://avatars.mds.yandex.net/i?id=7bfbe830ab81310a1cf9e4942f8758fbbd72b493-10166711-images-thumbs&n=13) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo3{
+    background: url(https://i.pinimg.com/originals/77/b0/10/77b0103d407a08f4c2049394b4febdc4.png) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
+.photo4{
+    background: url(https://avatars.mds.yandex.net/i?id=f654da19560faef5f2a4f3fa15d9c1f82385e4d8_l-10128543-images-thumbs&n=13) center no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+}
